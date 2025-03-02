@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int maxReach = 0; 
